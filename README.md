@@ -14,8 +14,8 @@ Backup your old WTF and Interface Folder, put mine in their place.
 
 From your old WTF folder, take your bindings-cache.wtf and macros-cache.wtf and overwrite them in my WTF folder.
 You can find bindings-cache.wtf and macros-cache.wtf inside the following two folders
-WTF/Account/[ACCNAME] 
-WTF/Account/[ACCNAME]/[ServerName]/[CharacterName] 
+1) WTF/Account/[ACCNAME] 
+2) WTF/Account/[ACCNAME]/[ServerName]/[CharacterName] 
 
 ### First Run Guide
 
