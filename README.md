@@ -30,28 +30,28 @@ WTF/Account/[ACCNAME]/[ServerName]/[CharacterName]
 ### Addon List 
 (Alot of these are modified by me, if you use a version that wasn't fixed by me it might not have the same functionality)
 
-AlignFix - type /align to show a grid.
-BlueShamans - Recolors shaman class color to blue (was pink)
-ClassicAuraDurations - Shows swipe timers on enemy debuffs, use with OmniCC to show number. (Requires LibClassicDurations) (Type /cad hooktarget if it isnt working)
-ClassicCastbars - customizable addon to shows enemy cast bar
-ClassicCodex - pfQuest port. this addon actually farms so hard. /ClassicCodex 
-eCastingBar - Cast bar /ecb 
-FiveSecondRule - shows the 5 second rule after casting before mana regens, helpful for starting levels /fsr
-HideRaidManager - Hides the annoying RaidManager until hovered over
-Kui Nameplates - Customizable Nameplates
-Leatrix_Maps - shows unexplored areas on map, shows dungeons
-Leatrix_Plus - /ltp or click minimap button. Lazypig but with a million other useful things. This is the core of my addon pack/ui. Very useful and highly customizable.
-LibClassicDurations - Required by ClassicAuraDurations to show debuff times.
-Lorti-UI-Classic - reskin/texturize default frames/bars. Blackframe but with button textures.
-OmniCC - Cooldown Numbers
-MonkeyQuest - quest tracker replacement, default quest tracker only allows to track 5 quests at a time, also it looks better and it's more functional.
-OneBag3 - One bag to rule them all
-RealMobHealth - Stores mob health info after killing a mob.
-TinyTooltip - customizable tooltip. /tt for options. 
-tullaRange - colors action bars if no resources / out of range
-TwitchEmotes - if you type twitch emotes in game it shows the emote. WidePeepoHappy 
-UnitFramesImproved - the best unitframe addon ever developed. Removes "name bar" and add its to the "health bar", colors by classes, etc. /ufi
-VendorPrice - shows vendor price, pressing left cntrl with bags open flashes the lowest value grey item, if you need to delete something quickly.
+1) AlignFix - type /align to show a grid.
+2) BlueShamans - Recolors shaman class color to blue (was pink)
+3) ClassicAuraDurations - Shows swipe timers on enemy debuffs, use with OmniCC to show number. (Requires LibClassicDurations) (Type /cad hooktarget if it isnt working)
+4) ClassicCastbars - customizable addon to shows enemy cast bar
+5) ClassicCodex - pfQuest port. this addon actually farms so hard. /ClassicCodex 
+6) eCastingBar - Cast bar /ecb 
+7) FiveSecondRule - shows the 5 second rule after casting before mana regens, helpful for starting levels /fsr
+8) HideRaidManager - Hides the annoying RaidManager until hovered over
+9) Kui Nameplates - Customizable Nameplates
+10) Leatrix_Maps - shows unexplored areas on map, shows dungeons
+11) Leatrix_Plus - /ltp or click minimap button. Lazypig but with a million other useful things. This is the core of my addon pack/ui. Very useful and highly customizable.
+12) LibClassicDurations - Required by ClassicAuraDurations to show debuff times.
+13) Lorti-UI-Classic - reskin/texturize default frames/bars. Blackframe but with button textures.
+14) OmniCC - Cooldown Numbers
+15) MonkeyQuest - quest tracker replacement, default quest tracker only allows to track 5 quests at a time, also it looks better and it's more functional.
+16) OneBag3 - One bag to rule them all
+17) RealMobHealth - Stores mob health info after killing a mob.
+18) TinyTooltip - customizable tooltip. /tt for options. 
+19) tullaRange - colors action bars if no resources / out of range
+19) TwitchEmotes - if you type twitch emotes in game it shows the emote. WidePeepoHappy 
+20) UnitFramesImproved - the best unitframe addon ever developed. Removes "name bar" and add its to the "health bar", colors by classes, etc. /ufi
+21) VendorPrice - shows vendor price, pressing left cntrl with bags open flashes the lowest value grey item, if you need to delete something quickly.
 
 ### Changelog
 
