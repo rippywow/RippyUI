@@ -3,7 +3,7 @@
 Collection of addons with slight modifications to make a UI I enjoy.
 
 
-<img src=images/RippyUI.jpg width=700>
+<img src=images/RippyUI.jpg width=900>
 
 
 ### How to Install
