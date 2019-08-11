@@ -1,4 +1,4 @@
-# RippyUIv1.2
+# RippyUI v1.2
 
 Collection of addons with slight modifications to make a UI I enjoy.
 
