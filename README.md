@@ -1,4 +1,4 @@
-# RippyUI
+# RippyUIv1.2
 
 Collection of addons with slight modifications to make a UI I enjoy.
 
@@ -9,6 +9,7 @@ Collection of addons with slight modifications to make a UI I enjoy.
 ### How to Install
 
 Backup your old WTF and Interface Folder, put mine in their place.
+To use custom fonts, rename "Fonts1" or "Fonts2" (whichever you want to use) to "Fonts" and place into your WoW Folder (Not Addons)
 
 ### How to keep your Keybinds and Macros
 
@@ -44,16 +45,23 @@ You can find bindings-cache.wtf and macros-cache.wtf inside the following two fo
 12) LibClassicDurations - Required by ClassicAuraDurations to show debuff times
 13) Lorti-UI-Classic - reskin/texturize default frames/bars. Blackframe but with button textures
 14) OmniCC - Cooldown Numbers
-15) MonkeyQuest - quest tracker replacement, default quest tracker only allows to track 5 quests at a time, also it looks better and it's more functional
-16) OneBag3 - One bag to rule them all
-17) RealMobHealth - Stores mob health info after killing a mob
-18) TinyTooltip - customizable tooltip. /tt for options
-19) tullaRange - colors action bars if no resources / out of range
-19) TwitchEmotes - if you type twitch emotes in game it shows the emote. WidePeepoHappy 
-20) UnitFramesImproved - the best unitframe addon ever developed. Removes "name bar" and add its to the "health bar", colors by classes, etc. /ufi
-21) VendorPrice - shows vendor price, pressing left cntrl with bags open flashes the lowest value grey item, if you need to delete something quickly
+15) NugRunning - Nice visual bars for enemy debuffs. Works even if you untarget the mob. (You can also enable this to show a cooldown bar but I have it disabled by default) /nrun
+16) MonkeyQuest - quest tracker replacement, default quest tracker only allows to track 5 quests at a time, also it looks better and it's more functional
+17) OneBag3 - One bag to rule them all
+18) RealMobHealth - Stores mob health info after killing a mob
+19) RippyFont - Changes size of certain ingame fonts
+20) RippyPortraits - Class Icon as Portraits, and a CUSTOM Player(Self) Portrait. Hover over your own portrait and scroll up and down with mousewheel to select your portrait you want to use.
+21) TinyTooltip - customizable tooltip. /tt for options
+22) tullaRange - colors action bars if no resources / out of range
+23) TwitchEmotes - if you type twitch emotes in game it shows the emote. WidePeepoHappy 
+24) UnitFramesImproved - the best unitframe addon ever developed. Removes "name bar" and add its to the "health bar", colors by classes, etc. /ufi
+25) VendorPrice - shows vendor price, pressing left cntrl with bags open flashes the lowest value grey item, if you need to delete something quickly
 
 ### Changelog
+
+1.2 Fixed a ton of compatibility issues (RealMobHealth finally works with UnitFramesImproved now!). Added custom fonts. Resized fonts. Added custom player portraits for yourself + class portraits for targets. Re-added NugRunning by request (Hopefully blizzard doesn't break the API again) 
+
+1.11 Minor tweaks
 
 1.1 Fixed Nameplate castbar, disabled buff textures, cleaned up compatibility issues and lua errors.
 
