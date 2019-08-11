@@ -1,4 +1,4 @@
-# RippyUI v1.2
+# RippyUI v1.21
 
 Collection of addons with slight modifications to make a UI I enjoy.
 
@@ -58,6 +58,8 @@ You can find bindings-cache.wtf and macros-cache.wtf inside the following two fo
 25) VendorPrice - shows vendor price, pressing left cntrl with bags open flashes the lowest value grey item, if you need to delete something quickly
 
 ### Changelog
+
+1.21 SimpleMap is back :)
 
 1.2 Fixed a ton of compatibility issues (RealMobHealth finally works with UnitFramesImproved now!). Added custom fonts. Resized fonts. Added custom player portraits for yourself + class portraits for targets. Re-added NugRunning by request (Hopefully blizzard doesn't break the API again) 
 
