@@ -56,7 +56,7 @@ You can find bindings-cache.wtf and macros-cache.wtf inside the following two fo
 23) TwitchEmotes - if you type twitch emotes in game it shows the emote. WidePeepoHappy 
 24) UnitFramesImproved - the best unitframe addon ever developed. Removes "name bar" and add its to the "health bar", colors by classes, etc. /ufi
 25) VendorPrice - shows vendor price, pressing left cntrl with bags open flashes the lowest value grey item, if you need to delete something quickly
-
+26) SimpleMap - /smfade off to disable map fading while moving
 ### Changelog
 
 1.21 SimpleMap is back :)
