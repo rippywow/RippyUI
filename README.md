@@ -1,6 +1,6 @@
 # RippyUI v1.22
 
-Collection of addons with slight modifications to make a UI I enjoy.
+Collection of addons with slight modifications for Classic 1.13.x
 
 
 <img src=images/RippyUIv1.2.png width=900>
