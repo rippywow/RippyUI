@@ -29,8 +29,9 @@ You can find bindings-cache.wtf and macros-cache.wtf inside the following two fo
 4) Your castbar is default. You need to type /ecb and go to the profiles tab, select "rippy" and then press load.
 
 ### FAQ
-Hello mistrke RIPY hOW D DO IMOVE THE FUCKING FRAMES?
-Leatrix - frames - manage frames - click the cogwheel
+How do I move the frames?
+
+Leatrix -> Frames -> Enable Manage Frames -> Click cogwheel
 
 ### Addon List 
 (Alot of these are modified by me, if you use a version that wasn't fixed by me it might not have the same functionality)
