@@ -1,4 +1,4 @@
-# RippyUI v1.21
+# RippyUI v1.22
 
 Collection of addons with slight modifications to make a UI I enjoy.
 
@@ -58,6 +58,8 @@ You can find bindings-cache.wtf and macros-cache.wtf inside the following two fo
 25) VendorPrice - shows vendor price, pressing left cntrl with bags open flashes the lowest value grey item, if you need to delete something quickly
 26) SimpleMap - /smfade off to disable map fading while moving
 ### Changelog
+
+1.22 added QuestXPTracker (Adds amount of XP every quest gives when you accept a quest). Added Bat portrait for the vampire clan boys
 
 1.21 SimpleMap is back :)
 
