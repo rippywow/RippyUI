@@ -64,7 +64,7 @@ Leatrix -> Frames -> Enable Manage Frames -> Click cogwheel
 26) SimpleMap - /smfade off to disable map fading while moving
 ### Changelog
 
-1.22 added QuestXPTracker (Adds amount of XP every quest gives when you accept a quest). Added Bat portrait for the vampire clan boys
+1.22 added QuestXPTracker (Adds amount of XP every quest gives when you accept a quest). Added Bat portrait option
 
 1.21 SimpleMap is back :)
 
