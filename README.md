@@ -5,6 +5,9 @@ Collection of addons with slight modifications for Classic 1.13.x
 
 <img src=images/RippyUIv1.2.png width=900>
 
+## Portrait Options
+
+<img src=images/PlayerPortraitExample.png width=500>
 
 ### How to Install
 
