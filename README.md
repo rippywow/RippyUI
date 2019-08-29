@@ -1,4 +1,4 @@
-# RippyUI v1.22
+# RippyUI v1.3
 
 Collection of addons with slight modifications for Classic 1.13.x
 
@@ -43,8 +43,8 @@ Leatrix -> Frames -> Enable Manage Frames -> Click cogwheel
 2) BlueShamans - Recolors shaman class color to blue (was pink)
 3) ClassicAuraDurations - Shows swipe timers on enemy debuffs, use with OmniCC to show number. (Requires LibClassicDurations) (Type /cad hooktarget if it isnt working)
 4) ClassicCastbars - customizable addon to shows enemy cast bar
-5) ClassicCodex - pfQuest port. this addon actually farms so hard /ClassicCodex 
-6) eCastingBar - Cast bar /ecb 
+5) Questie - questie
+6) Quartz - cast bar
 7) FiveSecondRule - shows the 5 second rule after casting before mana regens, helpful for starting levels /fsr
 8) HideRaidManager - Hides the annoying RaidManager until hovered over
 9) Kui Nameplates - Customizable Nameplates
@@ -62,10 +62,11 @@ Leatrix -> Frames -> Enable Manage Frames -> Click cogwheel
 21) TinyTooltip - customizable tooltip. /tt for options
 22) tullaRange - colors action bars if no resources / out of range
 23) TwitchEmotes - if you type twitch emotes in game it shows the emote. WidePeepoHappy 
-24) UnitFramesImproved - the best unitframe addon ever developed. Removes "name bar" and add its to the "health bar", colors by classes, etc. /ufi
-25) VendorPrice - shows vendor price, pressing left cntrl with bags open flashes the lowest value grey item, if you need to delete something quickly
-26) SimpleMap - /smfade off to disable map fading while moving
+24) VendorPrice - shows vendor price, pressing left cntrl with bags open flashes the lowest value grey item, if you need to delete something quickly
+25) SimpleMap - /smfade off to disable map fading while moving
 ### Changelog
+
+1.3 Replaced eCastBar with Quartz, replaced ClassicCodex with Questie(codex throwing errors), replaced unitframesimproved with Woah ThickFrames
 
 1.22 added QuestXPTracker (Adds amount of XP every quest gives when you accept a quest). Added Bat portrait option
 
