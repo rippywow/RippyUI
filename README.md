@@ -1,4 +1,4 @@
-# RippyUI v1.3
+# RippyUI v1.4
 
 Collection of addons with slight modifications for Classic 1.13.x
 
