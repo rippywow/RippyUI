@@ -1,3 +1,8 @@
+### DISCONTINUED UPDATES FOR THIS ON GITHUB. FOR UPDATED UI JOIN https://discord.gg/HkAwsjq and look at channel #addons
+Github just doesn't have enough space for one big project like this.
+
+
+
 # RippyUI v1.4
 
 Collection of addons with slight modifications for Classic 1.13.x
